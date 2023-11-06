@@ -18,7 +18,7 @@ The Parcel Delivery Service is a robust and dynamic package delivery system desi
     cd Parcel-Delivery-Service
     ```
 
-2. **Running the sniper**: Simply launch the `main.py` file.
+2. **Running the application**: Simply launch the `main.py` file.
    
     ```bash
     python main.py
